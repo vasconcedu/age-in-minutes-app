@@ -36,6 +36,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:id="@+id/select_date_button"
         android:text="@string/select_date"
         android:padding="5dp"
         android:backgroundTint="@color/celestial_blue"

@@ -1,4 +1,7 @@
 # age-in-minutes-app
+
+<img src="app.png" width="200" />
+
 My "Age In Minutes" app from Udemy course "The Complete Android 12 &amp; Kotlin Development Masterclass".
 
 I've coded the app herein in Kotlin. It receives the user's birth date as an input and outputs his age in minutes. 
